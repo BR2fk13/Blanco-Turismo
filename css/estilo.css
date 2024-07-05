@@ -1,0 +1,15 @@
+ *{
+      podding: 0;
+      margin:  0;
+}
+    body{
+        font-family:  "calibri  ligh;
+}
+
+.contenedor{
+    background:  tomato;
+    width:  80%;
+    margin:  auto;
+}
+
+
